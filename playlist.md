@@ -8,3 +8,5 @@
 - Lisa the Painful OST https://www.youtube.com/watch?v=ByKll4eIjwo&list=PLPAsf8Volpy3OoTL0fFmSLMuv8oK0s1Rk
 - Atmospheric Black Metal | Summoning - Land Of The Dead https://www.youtube.com/watch?v=jmDnrNwyhK0
 - September | Earth, Wind & Fire https://www.youtube.com/watch?v=3cKtSlsYVEU
+- Strangers by Minji https://youtu.be/Rh3-ifF1D38
+- Piano Quintet, Scherzo by Robert Schumann https://youtu.be/Ub3UAK_KeNI
