@@ -10,3 +10,5 @@
 - September | Earth, Wind & Fire https://www.youtube.com/watch?v=3cKtSlsYVEU
 - Strangers by Minji https://youtu.be/Rh3-ifF1D38
 - Piano Quintet, Scherzo by Robert Schumann https://youtu.be/Ub3UAK_KeNI
+- Jessie's Girl by Rick Springfield https://www.youtube.com/watch?v=qYkbTyHXwbs
+- 
