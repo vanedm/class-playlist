@@ -1,5 +1,4 @@
 # Playlist
-
 - Summer of 1984 ∙ “grateful kings” by RKVC https://youtu.be/cmwomhy81qg
 - LoFi Beats https://www.youtube.com/watch?v=5qap5aO4i9A
 - Mewmore-Unwavering Emotions https://www.youtube.com/watch?v=o-mKUzqHcEc
@@ -11,5 +10,12 @@
 - September | Earth, Wind & Fire https://www.youtube.com/watch?v=3cKtSlsYVEU
 - Strangers by Minji https://youtu.be/Rh3-ifF1D38
 - Piano Quintet, Scherzo by Robert Schumann https://youtu.be/Ub3UAK_KeNI
+- Jessie's Girl by Rick Springfield https://www.youtube.com/watch?v=qYkbTyHXwbs
 - Post Malone, Swae Lee - Sunflower (Spider-Man: Into the Spider-Verse) https://www.youtube.com/watch?v=ApXoWvfEYVU
 - Numb [Official Music Video] - Linkin Park https://www.youtube.com/watch?v=kXYiU_JCYtU
+- Enter Sandman (cover), Mac Demarco https://www.youtube.com/watch?v=gABTZibOV2U
+- Oliver Tree - Alien Boy [Official Audio] - Oliver Tree https://www.youtube.com/watch?v=3wLLgJ_a7Rs
+- On The Low - Burna Boy https://www.youtube.com/watch?v=Ecl8Aod0Tl0
+- Enjoy - J-Perry https://www.youtube.com/watch?v=RKomOZTdhVg
+- Gaya - Michael Brun X Lakou Mizik https://www.youtube.com/watch?v=sHQL4uBSFD4
+- Modal Soul Album - Nujabes https://www.youtube.com/watch?v=hUMpg1ii4_A&t=1341s
