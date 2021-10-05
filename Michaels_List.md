@@ -8,3 +8,4 @@
 - Coldplay - The Scientist (Official Video) https://www.youtube.com/watch?v=RB-RcX5DS5A
 - The Lumineers - Ho Hey (Official Video) https://www.youtube.com/watch?v=zvCBSSwgtg4
 - Passenger Let Her Go (Official Video) https://www.youtube.com/watch?v=RBumgq5yVrA
+- Modal Soul Album - Nujabes https://www.youtube.com/watch?v=hUMpg1ii4_A&t=1341s
