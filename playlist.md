@@ -1,5 +1,4 @@
 # Playlist
-
 - Summer of 1984 ∙ “grateful kings” by RKVC https://youtu.be/cmwomhy81qg
 - LoFi Beats https://www.youtube.com/watch?v=5qap5aO4i9A
 - Mewmore-Unwavering Emotions https://www.youtube.com/watch?v=o-mKUzqHcEc
@@ -19,3 +18,4 @@
 - On The Low - Burna Boy https://www.youtube.com/watch?v=Ecl8Aod0Tl0
 - Enjoy - J-Perry https://www.youtube.com/watch?v=RKomOZTdhVg
 - Gaya - Michael Brun X Lakou Mizik https://www.youtube.com/watch?v=sHQL4uBSFD4
+- Modal Soul Album - Nujabes https://www.youtube.com/watch?v=hUMpg1ii4_A&t=1341s
