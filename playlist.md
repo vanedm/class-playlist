@@ -16,3 +16,6 @@
 - Numb [Official Music Video] - Linkin Park https://www.youtube.com/watch?v=kXYiU_JCYtU
 - Enter Sandman (cover), Mac Demarco https://www.youtube.com/watch?v=gABTZibOV2U
 - Oliver Tree - Alien Boy [Official Audio] - Oliver Tree https://www.youtube.com/watch?v=3wLLgJ_a7Rs
+- On The Low - Burna Boy https://www.youtube.com/watch?v=Ecl8Aod0Tl0
+- Enjoy - J-Perry https://www.youtube.com/watch?v=RKomOZTdhVg
+- Gaya - Michael Brun X Lakou Mizik https://www.youtube.com/watch?v=sHQL4uBSFD4
