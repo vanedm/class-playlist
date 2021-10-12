@@ -14,10 +14,10 @@ Songs ordered by [popularity](playlist%20by%20popularity.md)
 
 ---
 
-#Want to add a song? 
+# Want to add a song? 
 
 Great! Each playlist has a certain requirements
-###Entry format  
+### Entry format  
 
 Songs should follow this format
 
@@ -29,11 +29,11 @@ Only the title needs the hyperlink to the song, which in markdown should look li
 Album | Artist  
 
 Most of the playlists will follow this or a similar format.
-###Main playlist
+### Main playlist
 The [Main playlist](playlist.md) has categories. First find one that suits your song, if there is none then you can either put your song in the "Not Categorized" category or make a new category. 
-###Alphabetical 
+### Alphabetical 
 This playlist is pretty self-explanatory.
-###With views
+### With views
 When adding the view count, add it after the artist. Get the view count from youtube.
 
 Title  
