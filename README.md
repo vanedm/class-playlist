@@ -14,9 +14,11 @@ Songs ordered by [popularity](playlist%20by%20popularity.md)
 
 ---
 
-#Want to add a song?
+#Want to add a song? 
+
 Great! Each playlist has a certain requirements
-###Entry format
+###Entry format  
+
 Songs should follow this format
 
 Title  
