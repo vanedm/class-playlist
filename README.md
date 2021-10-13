@@ -23,16 +23,16 @@ Great! Each playlist has a certain requirements
 
 ### Entry format  
 
-Songs should follow this format
+If you would like to submit a song or album, it should follow this format. You are welcome to add your name to your submission, but it is not necessary.
 
 Title  
-Album | Artist
+Album | Artist // Name of Submitter
 
 Only the title needs the hyperlink to the song, which in markdown should look like  
 
 ```
 [Title](url)  
-Album | Artist  
+Album | Artist // Name of Submitter
 ```
 
 Most of the playlists will follow this or a similar format.
