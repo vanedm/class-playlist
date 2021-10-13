@@ -7,6 +7,8 @@
 - [Mewmore-Unwavering Emotions](https://www.youtube.com/watch?v=o-mKUzqHcEc)
 - [Wind Scene](https://www.youtube.com/watch?v=pUFELL5hHbg)
 - [Modal Soul Album - Nujabes](https://www.youtube.com/watch?v=hUMpg1ii4_A&t=1341s)
+- [15 Sekonda](https://www.youtube.com/watch?v=R_Y4Cn-XQq8)
+No album | Aphex Twin // Lee
 
 ## Edgy
 - [Lisa the Painful OST](https://www.youtube.com/watch?v=ByKll4eIjwo&list=PLPAsf8Volpy3OoTL0fFmSLMuv8oK0s1Rk)
