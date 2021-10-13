@@ -59,8 +59,6 @@
   
   Gaya | Michael Brun X Lakou Mizik | 1,173,022 views
 
-## Fear
-
 ## Joyful
 - [Summer of 1984](https://youtu.be/cmwomhy81qg)
   
