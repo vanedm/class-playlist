@@ -19,9 +19,9 @@ Songs ordered by [popularity](playlist%20by%20popularity.md)
 
 ---
 
-# Want to add a song? 
+# Want to add a song?
 
-Great! Each playlist has a certain requirements
+Great! Each playlist has certain requirements.
 
 ### Entry format  
 
@@ -40,9 +40,9 @@ Album | Artist // Name of Submitter
 Most of the playlists will follow this or a similar format.
 
 ### Main playlist
-The [Main playlist](playlist.md) has categories. First find one that suits your song, if there is none then you can either put your song in the "Not Categorized" category or make a new category. 
+The [Main playlist](playlist.md) has categories. First find one that suits your song, if there is none then you can either put your song in the "Not Categorized" category or make a new category.
 
-### Alphabetical 
+### Alphabetical
 This playlist is pretty self-explanatory.
 
 ### With views
@@ -50,5 +50,3 @@ When adding the view count, add it after the artist. Get the view count from you
 
 Title  
 Album | Artist | X views
-
-
