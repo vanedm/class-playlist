@@ -13,6 +13,8 @@
   Chrono Trigger: Orchestral Selections Vol. I (2015) | Malcolm Robinson | 612,338 views
 - [Modal Soul Album](https://www.youtube.com/watch?v=hUMpg1ii4_A&t=1341s)
   Modal Soul | Nujabes | 2,157,349 views
+- [15 Sekonda](https://www.youtube.com/watch?v=R_Y4Cn-XQq8)
+  Aphex Twin | 7,879 views // Lee
 
 ## Edgy
 - [Lisa the Painful OST](https://www.youtube.com/watch?v=ByKll4eIjwo&list=PLPAsf8Volpy3OoTL0fFmSLMuv8oK0s1Rk)
