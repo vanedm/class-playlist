@@ -19,8 +19,9 @@
 18. Piano Quintet, Scherzo by Robert Schumann https://youtu.be/Ub3UAK_KeNI 36,387 views  
 19. Beyond the Sky, Acoustic https://www.youtube.com/watch?v=0_Af8SX2bWM 35,988 views
 20. LoFi Beats https://www.youtube.com/watch?v=5qap5aO4i9A about 30,000 watching (at time checked)
-21. Summer of 1984 ∙ “grateful kings” by RKVC https://youtu.be/cmwomhy81qg 5,392 views
-22. Strangers by Minji https://youtu.be/Rh3-ifF1D38 314 views
+21. AFX - 15 Sekonda https://www.youtube.com/watch?v=R_Y4Cn-XQq8) 7,879 views
+22. Summer of 1984 ∙ “grateful kings” by RKVC https://youtu.be/cmwomhy81qg 5,392 views
+23. Strangers by Minji https://youtu.be/Rh3-ifF1D38 314 views
 
 
 
