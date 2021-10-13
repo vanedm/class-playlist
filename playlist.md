@@ -16,6 +16,7 @@
 
 ## Dreamy
 - [Jessie's Girl by Rick Springfield](https://www.youtube.com/watch?v=qYkbTyHXwbs)
+- [Untourable Album - Men I Trust](https://www.youtube.com/watch?v=-m90XiNil7M&list=PLp9ta73sprU4AR94k8TiS8da2KyDu-DUi)
 
 ## Energetic
 - [September | Earth, Wind & Fire](https://www.youtube.com/watch?v=3cKtSlsYVEU)
@@ -33,4 +34,3 @@
 - [Enjoy - J-Perry](https://www.youtube.com/watch?v=RKomOZTdhVg)
 
 ## Not Categorized
-- [Untourable Album - Men I Trust](https://www.youtube.com/watch?v=-m90XiNil7M&list=PLp9ta73sprU4AR94k8TiS8da2KyDu-DUi)
