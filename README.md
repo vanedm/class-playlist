@@ -2,6 +2,8 @@
 
 A collaborative playlist for coding music and practicing using Git and GitHub.
 
+Now available as a playlist on [YouTube](https://www.youtube.com/playlist?list=PLmIAY2XrVeJF3y4f5tTSSJqXU_RzHTwcC).
+
 ***
 
 # Available Playlists
