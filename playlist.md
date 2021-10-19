@@ -27,7 +27,13 @@
  
    Can I Kick It (J. Cole Remix) | A Tribe Called Quest | 92,524 views 
 
+- [Electric Relaxation](https://www.youtube.com/watch?v=B2kWufDC3Bc)
+ 
+   Electrical Relaxation | A Tribe Called Quest | 2,635,241 views
+   
+- [Ili](https://www.youtube.com/watch?v=wOHjkv9_S0U)
 
+  Ili | Troy Boy |   133,863 views
 ## Edgy
 - [Lisa the Painful OST](https://www.youtube.com/watch?v=ByKll4eIjwo&list=PLPAsf8Volpy3OoTL0fFmSLMuv8oK0s1Rk)
 
