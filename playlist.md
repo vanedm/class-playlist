@@ -23,8 +23,10 @@
 
   Aphex Twin | 7,879 views // Lee
   
+  - [Can I Kick It (J. Cole Remix)](https://www.youtube.com/watch?v=twwIntWbsjo)
+ 
    Can I Kick It (J. Cole Remix) | A Tribe Called Quest | 92,524 views 
-- [Can I Kick It (J. Cole Remix)](https://www.youtube.com/watch?v=twwIntWbsjo)
+
 
 ## Edgy
 - [Lisa the Painful OST](https://www.youtube.com/watch?v=ByKll4eIjwo&list=PLPAsf8Volpy3OoTL0fFmSLMuv8oK0s1Rk)
