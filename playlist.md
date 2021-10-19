@@ -23,7 +23,7 @@
 
   Aphex Twin | 7,879 views // Lee
   
-  - [Can I Kick It (J. Cole Remix)](https://www.youtube.com/watch?v=twwIntWbsjo)
+- [Can I Kick It (J. Cole Remix)](https://www.youtube.com/watch?v=twwIntWbsjo)
  
    Can I Kick It (J. Cole Remix) | A Tribe Called Quest | 92,524 views 
 
