@@ -22,7 +22,18 @@
 - [15 Sekonda](https://www.youtube.com/watch?v=R_Y4Cn-XQq8)
 
   Aphex Twin | 7,879 views // Lee
+  
+- [Can I Kick It (J. Cole Remix)](https://www.youtube.com/watch?v=twwIntWbsjo)
+ 
+   Can I Kick It (J. Cole Remix) | A Tribe Called Quest | 92,524 views 
 
+- [Electric Relaxation](https://www.youtube.com/watch?v=B2kWufDC3Bc)
+ 
+   Midnight Marauders | A Tribe Called Quest | 2,635,241 views
+   
+- [Ili](https://www.youtube.com/watch?v=wOHjkv9_S0U)
+
+  Left Is Right | Troy Boy |   133,863 views
 ## Edgy
 - [Lisa the Painful OST](https://www.youtube.com/watch?v=ByKll4eIjwo&list=PLPAsf8Volpy3OoTL0fFmSLMuv8oK0s1Rk)
 
@@ -64,6 +75,10 @@
 - [Mercury](https://www.youtube.com/watch?v=31j4DIpgY9U)
 
   Hexada | Ghostemane | 363,696,154 views
+  
+- [Fear](https://www.youtube.com/watch?v=pRnrujxbEhc)
+
+  So Far Gone | Drake | 708,048 views
 
 ## Joyful
 - [Summer of 1984](https://youtu.be/cmwomhy81qg)
