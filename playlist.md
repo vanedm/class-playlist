@@ -25,6 +25,16 @@ Addtional music
 
 [Bring me the Horizon - Parasite Eve](https://www.youtube.com/watch?v=racmy7Y9P4M)
 
+[Wiring - Wiring 3](https://open.spotify.com/track/49wVZY6I8SOazcVwzcV7xb)
+
+[Jank - Split To Bill](https://open.spotify.com/track/7gQvOll4t7PSHWviyZzJlG)
+
+[Djo - End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD)
+
+[Buddha Trixie - Pitbull Goes To The Club](https://open.spotify.com/track/60CP3BRbRNynkh4i1I7rEG)
+
+[TV Girl - Blue Hair](https://open.spotify.com/track/39sDitIeCMrVX2QyXHY46t)
+
 [I Monster - The Circus of Deaf](https://www.youtube.com/watch?v=RQJJ9T8xJN4)
 
 [STAYSOLD - TOTALITARIANISM II](https://www.youtube.com/watch?v=lQ97OWG359I)
