@@ -37,6 +37,22 @@ Addtional music
 
 [Djo - End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD)
 
+  Gaya | Michael Brun X Lakou Mizik | 1,173,022 views
+
+  
+- [No Love](https://www.youtube.com/watch?v=2MHhLDCJ57E)
+  
+  No Love Deep Web| Death Grips 
+
+
+## Fear
+
+- [Mercury](https://www.youtube.com/watch?v=31j4DIpgY9U)
+
+  Hexada | Ghostemane | 363,696,154 views
+  
+- [Fear](https://www.youtube.com/watch?v=pRnrujxbEhc)
+
 [Buddha Trixie - Pitbull Goes To The Club](https://open.spotify.com/track/60CP3BRbRNynkh4i1I7rEG)
 
 [TV Girl - Blue Hair](https://open.spotify.com/track/39sDitIeCMrVX2QyXHY46t)
