@@ -68,3 +68,34 @@ Addtional music
 [JAWNY - strawberry chainsaw](https://www.youtube.com/watch?v=AMh7FPlEnSU)
 
 [Aplo - Monte Carlo](https://www.youtube.com/watch?v=zNjBbu_n2P4)
+
+[OkameP - Wasurenagusa](https://youtu.be/rhjctyq8dQ8?si=AyG_Ez1zjb6G3X6Q)
+
+[OkameP - Acedia](https://youtu.be/30w-PlDZWn0?si=_hlYlm5I4TDHlUnu)
+
+[ShotenTaro - Nami](https://youtu.be/JZoPo-uwz18?si=-J-CKNN9ahIaqlkK)
+
+[ShotenTaro - A.L.T.E.M.A](https://youtu.be/CtI4ZXl1Kvw?si=OAAmKhkuOAchAxBd)
+
+[ShotenTaro - True=Dawn](https://youtu.be/sfWgnZLnlHs?si=jkpcS0raWb5bzl6-)
+
+[ShotenTaro - CursE_you](https://youtu.be/aKy3QjWTs8A?si=1WdxAw4oz6vuniZZ)
+
+[Yuyoyuppe - Hidamari_no_Uta](https://youtu.be/aFFUaDUJL5k?si=UIZ2EJ8H4lRJ_a-L) 
+
+[ShotenTaro - Oath of Invictus](https://youtu.be/BRrs2CG4Sw4?si=3KnRM-9WkiUp0Ols)
+
+[ShotenTaro - Prototype=Dusk](https://youtu.be/OUcj7AALYd0?si=TJ1Id7BFjIEZh-Tf)
+
+[Yuyoyuppe - Hope](https://youtu.be/wHMMGhRJ2qQ?si=IBxI2uFm8IXuV6Qf)
+
+[Yuyoyuppe - Misery](https://youtu.be/mkkCadgzUfk?si=Y_7ZW_F8zH0i1b-R) 
+
+[Yuyoyuppe - Cry](https://youtu.be/a1nfukCP8dM?si=ebvpJYb3Q_9UMgBA)
+
+[Tokoyami Towa - Anemone](https://youtu.be/G3J06ircgMA?si=giBCufEJOc0jdrsH)
+
+[OkameP - Edelweiss](https://youtu.be/XJV6XtuXuqc?si=FcKUa_egADqpLq5j) 
+
+[Sheba - Disorder](https://youtu.be/di6KQm4ep7k?si=aIEtxWGpl9iT1X-d) 
+
