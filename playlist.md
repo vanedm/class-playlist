@@ -22,3 +22,5 @@ Addtional music
 [Cage the Elephant - Ain't No Rest For The Wicked](https://www.youtube.com/watch?v=HKtsdZs9LJo)
 
 [Bring me the Horizon - Parasite Eve](https://www.youtube.com/watch?v=racmy7Y9P4M)
+
+[Aplo - Monte Carlo](https://www.youtube.com/watch?v=zNjBbu_n2P4)
