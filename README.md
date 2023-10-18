@@ -2,51 +2,16 @@
 
 A collaborative playlist for coding music and practicing using Git and GitHub.
 
-Now available as a playlist on [YouTube](https://www.youtube.com/playlist?list=PLmIAY2XrVeJF3y4f5tTSSJqXU_RzHTwcC).
+### Format
 
-***
+To add to our playlist, be sure to ```fork``` the repository, then edit the playlist.md file and add an artist , track name, and have it link to the song online. You can optionally add the genre(s) afterwards as well. 
 
-# Available Playlists
-[Main playlist](playlist.md). All the songs collected, categorized
-
-Playlist in [alphabetical order](alphabetical-playlist.md)
-
-Songs with [view count](playlist_with_views_date.md)
-
-Songs ordered by [popularity](playlist%20by%20popularity.md)
-
-[Michael's Playlist](Michaels_List.md)
-
----
-
-# Want to add a song?
-
-Great! Each playlist has certain requirements.
-
-### Entry format  
-
-If you would like to submit a song or album, it should follow this format. You are welcome to add your name to your submission, but it is not necessary.
-
-Title  
-Album | Artist // Name of Submitter
-
-Only the title needs the hyperlink to the song, which in markdown should look like  
+We're writing in [markdown format](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet), which is the main *documentation* format on GitHub.
 
 ```
-[Title](url)  
-Album | Artist // Name of Submitter
+[Artist name - Track name](https://link-to-url.com) - optional genre(s)
 ```
 
-Most of the playlists will follow this or a similar format.
+## TODO
 
-### Main playlist
-The [Main playlist](playlist.md) has categories. First find one that suits your song, if there is none then you can either put your song in the "Not Categorized" category or make a new category.
-
-### Alphabetical
-This playlist is pretty self-explanatory.
-
-### With views
-When adding the view count, add it after the artist. Get the view count from youtube.
-
-Title  
-Album | Artist | X views
+Any other ideas for how to improve this playlist? What other info would people want? How can we make this better? Feel free to [add an issue](https://github.com/lee2sman/class-playlist/issues) for discussion or pull request.
