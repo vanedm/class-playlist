@@ -1,5 +1,11 @@
 # Playlist
+Addtional music 
 
+- [On Purpose] - Ramirez](https://www.youtube.com/watch?v=P5ebgxdf0tQ)
+
+- [yellow love rmx] - Freddie Dredd](https://www.youtube.com/watch?v=aufP-IYAMqU)
+
+- [Mente Positiva] - Junior H](https://www.youtube.com/watch?v=q8cKZfOyFQE)
 ## For Studying: 👇😌
 - [LoFi Beats](https://www.youtube.com/watch?v=5qap5aO4i9A)
 
