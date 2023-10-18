@@ -21,4 +21,6 @@ Addtional music
 
 [Cage the Elephant - Ain't No Rest For The Wicked](https://www.youtube.com/watch?v=HKtsdZs9LJo)
 
+[Ken Carson - Paranoid](https://www.youtube.com/watch?v=_OpFTPt6G8o)
+
 [Bring me the Horizon - Parasite Eve](https://www.youtube.com/watch?v=racmy7Y9P4M)
