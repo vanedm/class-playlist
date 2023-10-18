@@ -1,72 +1,41 @@
 # Playlist
+Addtional music 
 
-## For Studying: 👇😌
-- [LoFi Beats](https://www.youtube.com/watch?v=5qap5aO4i9A)
+[Ramirez - On Purpose](https://www.youtube.com/watch?v=P5ebgxdf0tQ)
 
-  Lofi Hip Hop Radio - beats to relax/ study to | Various Artists | 29,661 watching now
-- [Beyond the Sky (Acoustic Guitar Cover)](https://www.youtube.com/watch?v=0_Af8SX2bWM)
+[Freddie Dredd - yellow love rmx](https://www.youtube.com/watch?v=aufP-IYAMqU)
 
-  Xenoblade Chronicles OST | Xenoblade | 36,007 views
-- [Piano Quintet, Scherzo](https://youtu.be/Ub3UAK_KeNI)
+[Junior H - Mente Positiva](https://www.youtube.com/watch?v=q8cKZfOyFQE)
 
-  Robert Schumann | 36,393 views
-- [Unwavering Emotions](https://www.youtube.com/watch?v=o-mKUzqHcEc)
+[Two Shell - Ghost2](https://www.youtube.com/watch?v=oniolbg6HAo) - electronic
 
-  Pokémon Black & White Remix | Mewmore | 408,936 views
-- [Wind Scene (cover)](https://www.youtube.com/watch?v=pUFELL5hHbg)
-
-  Chrono Trigger: Orchestral Selections Vol. I (2015) | Malcolm Robinson | 612,338 views
-- [Modal Soul Album](https://www.youtube.com/watch?v=hUMpg1ii4_A&t=1341s)
-
-  Modal Soul | Nujabes | 2,157,349 views
-- [15 Sekonda](https://www.youtube.com/watch?v=R_Y4Cn-XQq8)
-
-  Aphex Twin | 7,879 views // Lee
+[Bruno Mars - Perm](https://www.youtube.com/watch?v=ftXmvnL0ZOc&pp=ygUPcGVybSBicnVubyBtYXJz) 
   
-- [Can I Kick It (J. Cole Remix)](https://www.youtube.com/watch?v=twwIntWbsjo)
- 
-   Can I Kick It (J. Cole Remix) | A Tribe Called Quest | 92,524 views 
+[J-Perry - Enjoy](https://www.youtube.com/watch?v=PiPeFmaQQ7Q)
 
-- [Electric Relaxation](https://www.youtube.com/watch?v=B2kWufDC3Bc)
- 
-   Midnight Marauders | A Tribe Called Quest | 2,635,241 views
-   
-- [Ili](https://www.youtube.com/watch?v=wOHjkv9_S0U)
+[Pokemon - Lavender Town](https://youtu.be/ahuLnDqyLGg?si=2_k9AyRQetG56Zyy)
 
-  Left Is Right | Troy Boy |   133,863 views
-## Edgy
-- [Lisa the Painful OST](https://www.youtube.com/watch?v=ByKll4eIjwo&list=PLPAsf8Volpy3OoTL0fFmSLMuv8oK0s1Rk)
+[Albania - National Anthem](https://youtu.be/IHm9HmHM4Tw?si=nMSjFHhGxU7XNi6s)
 
-  LISA SOUNDTRACK | Dingaling Productions | 2,581,609 views // Julie
-- [Dangerous (feat. Joywave)](https://www.youtube.com/watch?v=LpQArtCeXTk)
+[Onion - Cutting POV](https://youtu.be/kzpjLMKUJco?si=215oJ3Kt6OW21Xd3)
 
-  Earth To Echo | Big Data | 9,710,179 views // Julie
-- [Atmospheric Black Metal](https://www.youtube.com/watch?v=jmDnrNwyhK0)
+[Måneskin - SUPERMODEL](https://youtu.be/jODrVofka54?si=ha1GgMN7BhddlMfl)
 
-  Summoning | Land Of The Dead | 38,340 views
-- [Enter Sandman (cover)](https://www.youtube.com/watch?v=gABTZibOV2U)
+[JAWNY - Anything You Want](https://www.youtube.com/watch?v=5a1Gew595MY)
 
-  THE METALICA BLACKLIST | Mac Demarco | 96,130 views
+[Peter McPoland - Digital Silence](https://www.youtube.com/watch?v=nOxH6KEh5n4)
 
-## Dreamy
-- [Jessie's Girl (Main Version)](https://www.youtube.com/watch?v=qYkbTyHXwbs)
+[Cage the Elephant - Ain't No Rest For The Wicked](https://www.youtube.com/watch?v=HKtsdZs9LJo)
 
-  Main Version | Rick Springfield | 50,496,311 views
-- [Untourable Album](https://www.youtube.com/watch?v=-m90XiNil7M&list=PLp9ta73sprU4AR94k8TiS8da2KyDu-DUi)
+[Ken Carson - Paranoid](https://www.youtube.com/watch?v=_OpFTPt6G8o)
 
-  Untourable Album | Men I Trust | 58,288 views
+[Bring me the Horizon - Parasite Eve](https://www.youtube.com/watch?v=racmy7Y9P4M)
 
-## Energetic
-- [September](https://www.youtube.com/watch?v=3cKtSlsYVEU)
+[Wiring - Wiring 3](https://open.spotify.com/track/49wVZY6I8SOazcVwzcV7xb)
 
-  The Best Of Earth, Wind & Fire Vol. 1 | Earth, Wind & Fire | 29,987,497 views
-- [Alien Boy](https://www.youtube.com/watch?v=3wLLgJ_a7Rs)
+[Jank - Split To Bill](https://open.spotify.com/track/7gQvOll4t7PSHWviyZzJlG)
 
-  Alien Boy | Oliver Tree | 29,242,083 views
-- [Numb](https://www.youtube.com/watch?v=kXYiU_JCYtU)
-
-  Numb | Linkin Park | 1,682,534,706 views
-- [Gaya](https://www.youtube.com/watch?v=sHQL4uBSFD4)
+[Djo - End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD)
 
   Gaya | Michael Brun X Lakou Mizik | 1,173,022 views
 
@@ -84,21 +53,18 @@
   
 - [Fear](https://www.youtube.com/watch?v=pRnrujxbEhc)
 
-  So Far Gone | Drake | 708,048 views
+[Buddha Trixie - Pitbull Goes To The Club](https://open.spotify.com/track/60CP3BRbRNynkh4i1I7rEG)
 
-## Joyful
-- [Summer of 1984](https://youtu.be/cmwomhy81qg)
+[TV Girl - Blue Hair](https://open.spotify.com/track/39sDitIeCMrVX2QyXHY46t)
 
-  Summer of 1984 | RKVC | 5,509 views
-- [Strangers](https://youtu.be/Rh3-ifF1D38)
+[I Monster - The Circus of Deaf](https://www.youtube.com/watch?v=RQJJ9T8xJN4)
 
-  Strangers | Minji | 317 views
-- [Sunflower](https://www.youtube.com/watch?v=ApXoWvfEYVU)
+[STAYSOLD - TOTALITARIANISM II](https://www.youtube.com/watch?v=lQ97OWG359I)
 
-  Post Malone, Swae Lee | Spider-Man: Into the Spider-Verse | 1,592,132,835 views
-- [On The Low](https://www.youtube.com/watch?v=Ecl8Aod0Tl0)
+[The Go! Team - Get It Together](https://www.youtube.com/watch?v=ht0yLJt7K4I)
 
-  African Giant | Burna Boy | 228,240,356 views
-- [Enjoy](https://www.youtube.com/watch?v=RKomOZTdhVg)
+[The Noveltones - Left Bank Two](https://www.youtube.com/watch?v=yOzW3Qwfd_A)
 
-  Enjoy | J-Perry | 205,278 views
+[JAWNY - strawberry chainsaw](https://www.youtube.com/watch?v=AMh7FPlEnSU)
+
+[Aplo - Monte Carlo](https://www.youtube.com/watch?v=zNjBbu_n2P4)
