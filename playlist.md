@@ -21,4 +21,18 @@ Addtional music
 
 [Cage the Elephant - Ain't No Rest For The Wicked](https://www.youtube.com/watch?v=HKtsdZs9LJo)
 
+[Ken Carson - Paranoid](https://www.youtube.com/watch?v=_OpFTPt6G8o)
+
 [Bring me the Horizon - Parasite Eve](https://www.youtube.com/watch?v=racmy7Y9P4M)
+
+[I Monster - The Circus of Deaf](https://www.youtube.com/watch?v=RQJJ9T8xJN4)
+
+[STAYSOLD - TOTALITARIANISM II](https://www.youtube.com/watch?v=lQ97OWG359I)
+
+[The Go! Team - Get It Together](https://www.youtube.com/watch?v=ht0yLJt7K4I)
+
+[The Noveltones - Left Bank Two](https://www.youtube.com/watch?v=yOzW3Qwfd_A)
+
+[JAWNY - strawberry chainsaw](https://www.youtube.com/watch?v=AMh7FPlEnSU)
+
+[Aplo - Monte Carlo](https://www.youtube.com/watch?v=zNjBbu_n2P4)
