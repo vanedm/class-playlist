@@ -13,6 +13,12 @@ Addtional music
   
 [J-Perry - Enjoy](https://www.youtube.com/watch?v=PiPeFmaQQ7Q)
 
+[Pokemon - Lavender Town](https://youtu.be/ahuLnDqyLGg?si=2_k9AyRQetG56Zyy)
+
+[Albania - National Anthem](https://youtu.be/IHm9HmHM4Tw?si=nMSjFHhGxU7XNi6s)
+
+[Onion - Cutting POV](https://youtu.be/kzpjLMKUJco?si=215oJ3Kt6OW21Xd3)
+
 [Måneskin - SUPERMODEL](https://youtu.be/jODrVofka54?si=ha1GgMN7BhddlMfl)
 
 [JAWNY - Anything You Want](https://www.youtube.com/watch?v=5a1Gew595MY)
@@ -46,7 +52,6 @@ Addtional music
 [JAWNY - strawberry chainsaw](https://www.youtube.com/watch?v=AMh7FPlEnSU)
 
 [Aplo - Monte Carlo](https://www.youtube.com/watch?v=zNjBbu_n2P4)
-
 [OkameP - Wasurenagusa](https://youtu.be/rhjctyq8dQ8?si=AyG_Ez1zjb6G3X6Q)
 
 [OkameP - Acedia](https://youtu.be/30w-PlDZWn0?si=_hlYlm5I4TDHlUnu)

@@ -1,8 +1,8 @@
-#format [text](link)
+# Sacia playlist
 
 just me signaling how much of a nerd i am
 
-#Vibes
+## Vibes
 
 [FINNEAS - I Don't Miss You At All](https://www.youtube.com/watch?v=C62ApusprBA)
 
@@ -10,7 +10,7 @@ just me signaling how much of a nerd i am
 
 [Maroon 5 - Beautiful Mistakes ft. Megan Thee Stallion (Official Music Video)](https://www.youtube.com/watch?v=BSzSn-PRdtI)
 
-#Hype
+## Hype
 
 [Saweetie & GALXARA - Sway With Me (from Birds of Prey: The Album) | Official Audio](https://www.youtube.com/watch?v=QeWim6Qtikw)
 
