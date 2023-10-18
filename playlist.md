@@ -13,6 +13,12 @@ Addtional music
   
 [J-Perry - Enjoy](https://www.youtube.com/watch?v=PiPeFmaQQ7Q)
 
+[Pokemon - Lavender Town](https://youtu.be/ahuLnDqyLGg?si=2_k9AyRQetG56Zyy)
+
+[Albania - National Anthem](https://youtu.be/IHm9HmHM4Tw?si=nMSjFHhGxU7XNi6s)
+
+[Onion - Cutting POV](https://youtu.be/kzpjLMKUJco?si=215oJ3Kt6OW21Xd3)
+
 [Måneskin - SUPERMODEL](https://youtu.be/jODrVofka54?si=ha1GgMN7BhddlMfl)
 
 [JAWNY - Anything You Want](https://www.youtube.com/watch?v=5a1Gew595MY)
