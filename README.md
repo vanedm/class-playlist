@@ -8,9 +8,18 @@ To add to our playlist, be sure to ```fork``` the repository, then edit the play
 
 We're writing in [markdown format](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet), which is the main *documentation* format on GitHub.
 
+
+Entries will be formatted in a table like this
 ```
-[Artist name - Track name](https://link-to-url.com) - optional genre(s)
+|             Artist - Song                         |   length |  Views     |     Alt. Links      | Genre (optional) | Mood (optional) |
+|:-------------------------------------------------:|:--------:|:----------:|:-------------------:|:----------------:|:---------------:| 
+|[Artist name - Track name](https://link-to-url.com)| length   | View count | spotify, apple, etc |     Genre        | optional moods  |
+|                                                   |          |            |                     |                  |                 |
 ```
+|             Artist - Song                         |   length |  Views     |     Alt. Links      | Genre (optional) | Mood (optional) |
+|:-------------------------------------------------:|:--------:|:----------:|:-------------------:|:----------------:|:---------------:| 
+|[Artist name - Track name](https://link-to-url.com)| length   | View count | spotify, apple, etc |     Genre        | optional moods  |
+|                                                   |          |            |                     |                  |                 |
 
 ## TODO
 
