@@ -95,4 +95,8 @@
   African Giant | Burna Boy | 228,240,356 views
 - [Enjoy](https://www.youtube.com/watch?v=RKomOZTdhVg)
 
+
+  24K Magic | Bruno Mars | 44,000,000 views  // David Garcia
+- [Perm](https://www.youtube.com/watch?v=ftXmvnL0ZOc&pp=ygUPcGVybSBicnVubyBtYXJz)
+  
   Enjoy | J-Perry | 205,278 views
