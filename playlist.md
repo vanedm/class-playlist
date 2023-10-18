@@ -24,3 +24,5 @@ Addtional music
 [Bring me the Horizon - Parasite Eve](https://www.youtube.com/watch?v=racmy7Y9P4M)
 
 [JAWNY - strawberry chainsaw](https://www.youtube.com/watch?v=AMh7FPlEnSU)
+
+[Aplo - Monte Carlo](https://www.youtube.com/watch?v=zNjBbu_n2P4)
